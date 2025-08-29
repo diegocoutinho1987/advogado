@@ -13,4 +13,4 @@
 </ul>
 
 <p>Link do projeto no ar</p>
-<a href="https://diegocoutinho.com.br/projetos/advogado/">Página Advogados</a>
+<a href="https://diegocoutinho.com.br/projetos/advogado/" target="_blank">Página Advogados</a>
